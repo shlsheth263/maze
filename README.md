@@ -1,12 +1,12 @@
 Files in the project : -
 
-app.java
-cel.java
-prim.java
-solver.java
-q.java
-qnode.java
-apphtml.html
+app.java,
+cel.java,
+prim.java,
+solver.java,
+q.java,
+qnode.java,
+apphtml.html 
 
 Instructions to Run the Program :-
 
